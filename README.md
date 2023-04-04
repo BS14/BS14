@@ -1,6 +1,11 @@
 # 👋 Hi, I’m @BS14
-Hello there. I am currently working as a DevOps engineer in Nepal. 
+Hey there! I'm Binaya Sharma, a DevOps engineer with a passion for all things cloud and automation. My expertise lies in AWS and DigitalOcean, and I love nothing more than deploying, managing, and scaling cloud infrastructure.
 
+When it comes to containerization and infrastructure, I'm all in. I'm a huge fan of Docker, terraform, linux, and k8s, and I'm always looking for new and innovative ways to use them to streamline and optimize workflows.
+
+Whether I'm working on a complex deployment or troubleshooting an issue, I approach every task with a positive attitude and a can-do spirit. I love solving problems and building things from the ground up, and I'm constantly pushing myself to learn new skills and technologies.
+
+When I'm not tinkering with the latest cloud tools, you can find me hiking in the great outdoors or curled up with a good book. I'm a firm believer in the importance of work-life balance, and I strive to bring that philosophy to everything I do.
 <p align='center'>
 <a href="https://twitter.com/sbnay14"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/binaya-sharma-615023139/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
